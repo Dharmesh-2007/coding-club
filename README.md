@@ -1,2 +1,2 @@
-# coding-club
-FOR HACKATHON CONTESTENT
+# coding club
+CODING CLUB 
